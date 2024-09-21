@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="prog-4ed">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/prog-4ed.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
